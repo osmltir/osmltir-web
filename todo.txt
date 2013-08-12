@@ -1,35 +1,35 @@
 - accueil
 
-- découvrir le tir
+- Découvrir le tir
 
-    Le tir sportif est l’un des plus anciens sports encore pratiqué. Il trouve ses origines avec celles de l’Homme ayant le besoin de
-    s’entraîner pour réussir à viser juste afin d’assurer sa survie.
+    <p>Le tir sportif est l’un des plus anciens sports encore pratiqué. Il trouve ses origines avec celles de l’Homme ayant le besoin de
+    s’entraîner pour réussir à viser juste afin d’assurer sa survie.</p>
 
-    C’est le 13 AVRIL 1369 que le Roi Charles V recommande la pratique officielle de l'arbalète comme essentiellement propre à développer
-    la force et l'adresse. Cette discipline est encore pratiquée de nos jours, notamment dans l’OSML SECTION TIR.
+    <p>C’est le 13 AVRIL 1369 que le Roi Charles V recommande la pratique officielle de l'arbalète comme essentiellement propre à développer
+    la force et l'adresse. Cette discipline est encore pratiquée de nos jours, notamment dans l’OSML SECTION TIR.</p>
 
-    Le tir sportif trouve cependant sont premier grand essort avec les premières armes à poudre qui datent de la fin du XVème siècle et
+    <p>Le tir sportif trouve cependant sont premier grand essort avec les premières armes à poudre qui datent de la fin du XVème siècle et
     du début du XVIème siècle. Les arquebusiers se regroupent dès cette époque pour se mesurer en concours de Tir, bientôt les premières
     sociétés civiles apparaissent (dans une organisation proche de nos clubs actuels) vers 1866. Elles se regroupent l'Union des Sociétés
-    de Tir, actuelle Fédération Française de Tir (seule ligues reconnue au niveau international).
+    de Tir, actuelle Fédération Française de Tir (seule ligues reconnue au niveau international).</p>
 
-    Pierre de Coubertin, 7 fois Champion de France au pistolet, impose dès la création des jeux Olympiques en 1896 que le tir figure au
+    <p>Pierre de Coubertin, 7 fois Champion de France au pistolet, impose dès la création des jeux Olympiques en 1896 que le tir figure au
     programme des épreuves olympiques. La seconde grande période d’essort du tir a lieu après la défaite de 1870, et s'accentue jusqu'en 1914.
     Le nombre des Sociétés de Tir répandues sur tout le territoire s'élève à 3 500 et l'on compte 500 000 tireurs. La seconde guerre mondiale
     stoppera cette élan, après 1945 et jusqu'aux années 60 les stands de tir sont fréquentés par une majorité de gendarmes, de réservistes et
-    de policiers.
+    de policiers.</p>
 
-    Depuis la fin des années 70, le tir sportif retrouve une période d’élan grâce à la sofistication des armes et à une politique
-    promotionnelle de la Fédération.
+    <p>Depuis la fin des années 70, le tir sportif retrouve une période d’élan grâce à la sofistication des armes et à une politique
+    promotionnelle de la Fédération.</p>
 
-    Actuellement 164 500 licenciés pratiquent ce sport dans 1 700 clubs. La F.F.Tir se place dans les premiers rangs des Fédérations
-    Olympiques.
+    <p>Actuellement 164 500 licenciés pratiquent ce sport dans 1 700 clubs. La F.F.Tir se place dans les premiers rangs des Fédérations
+    Olympiques.</p>
 
-    En 640 ans d’existance, les armes ont énormement changées. Seule les arbalètes conservent des similitudes avec les premiers modèles.
+    <p>En 640 ans d’existance, les armes ont énormement changées. Seule les arbalètes conservent des similitudes avec les premiers modèles.
     Cependant il existe des disciplines où l’on utilise encore des pistolets et carabines à poudre noire, répliques voir modèles d’origine!
     Le tir sportif regroupe plusieurs dizaines de disciplines, de 10 mètres à 300 mètres! C’est un sport passionnant demandant concentration,
     maîtrise de soi, condition physique et bien d’autres qualités. Un sport "propre" où seul la vrai valeur de la personne est récompensée,
-    un sport où les adversaires ont une formidable entente, bref un exemple à l’heure actuelle dont fait partie l’OSML SECTION TIR.
+    un sport où les adversaires ont une formidable entente, bref un exemple à l’heure actuelle dont fait partie l’OSML SECTION TIR.</p>
 
 - qui sommes nous?
 
