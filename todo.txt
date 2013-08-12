@@ -1,14 +1,14 @@
 - accueil
 - découvrir le tir
-- qui sommes nous?
-- historique
+- horaires d’ouverture
+- tarifs
+- venir chez nous!
 - installations
 - école de tir
 - pôle compétition
 - comité directeur
-- horaires d’ouverture
-- tarifs
-- venir chez nous!
+- qui sommes nous?
+- historique
 - evenements/calendrier
 - télécharger les documents (statut etc)
 - liens cools
