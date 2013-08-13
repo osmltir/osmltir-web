@@ -33,7 +33,7 @@ and open the template in the editor.
                             <li><a href="#liens">Liens</a></li>
                             <li><a href="#sponsors">Sponsors</a></li>
                         </ul>
-                    </div><!--/.well -->
+                    </div><!--/sidebar-nav -->
                 </div><!--/span-->
                 <div class="span9">
                     <section id="accueil">
@@ -257,8 +257,8 @@ and open the template in the editor.
 
                             <h2>Et le futur?</h2>
                             <p>
-                                Suite aux résultats et à la motivation de l’OSML SECTION TIR, 2010 sera l’année de la récompense avec un agrandissement des locaux et 
-                                une totale réfection du stand de tir effectuée par la mairie de Lomme et Lille métropole. Le futur complexe capable d’accueillir des
+                                Suite aux résultats et à la motivation de l’OSML SECTION TIR, avec un agrandissement des locaux et 
+                                une totale réfection du stand de tir est prévu par la mairie de Lomme et Lille métropole. Le futur complexe capable d’accueillir des
                                 finales de tir comportera salle de réunion et de formation, environ 20 pas de tir 10m, 3 pas de tir arbalètes Field 10m, 3 pas de tir 
                                 arbalète Field 18m, 1 pas de tir cible mobile,... . Les projets sont nombreux comme l’installation de pas de tir équipés en cibleries 
                                 électroniques, nous nous donnons 5 ans pour que tout soit réalisé, soit plus de 150.000€ investis depuis 2002.
@@ -267,25 +267,38 @@ and open the template in the editor.
                     </section>
                     <section id="evenements">
                         <div class="page-header">
-                            <h1>Accueil</h1>
-                            <p>Bienvenue sur le site du club de tir de Lomme</p>
+                            <h1>Evénements</h1>
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec,
+                                ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor,
+                                orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae,
+                                consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue.
+                                Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis
+                                in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing
+                                ante non diam sodales hendrerit. Pst canata tari est paroy malardi dalr sahit ya kho ral labass erat non mauris convallis vehicula.
+                                Nulla et sapien. Integer tortor tellus, aliquam faucibus, convallis id, congue eu, quam. Mauris ullamcorper felis vitae erat. Proin feugiat,
+                                augue non elementum posuere, metus purus iaculis lectus, et tristique ligula justo vitae magna. Aliquam convallis sollicitudin purus.
+                                Praesent aliquam, enim at fermentum mollis, ligula massa adipiscing nisl, ac euismod nibh nisl eu lectus. Fusce vulputate sem at sapien.
+                                Vivamus leo. Aliquam euismod libero eu enim. Nulla nec felis sed leo placerat imperdiet. Aenean suscipit nulla in justo.
+                                Suspendisse cursus rutrum augue. Nulla tincidunt tincidunt mi. Curabitur iaculis, lorem vel rhoncus faucibus, felis magna fermentum augue, et ultricies lacus lorem varius purus. Curabitur eu amet.
+                            </p>
                         </div>
                     </section>
                     <section id="documents">
                         <div class="page-header">
-                            <h1>Accueil</h1>
+                            <h1>Documents</h1>
                             <p>Bienvenue sur le site du club de tir de Lomme</p>
                         </div>
                     </section>
                     <section id="liens">
                         <div class="page-header">
-                            <h1>Accueil</h1>
+                            <h1>Liens cool</h1>
                             <p>Bienvenue sur le site du club de tir de Lomme</p>
                         </div>
                     </section>
                     <section id="sponsors">
                         <div class="page-header">
-                            <h1>Accueil</h1>
+                            <h1>Sponsors</h1>
                             <p>Bienvenue sur le site du club de tir de Lomme</p>
                         </div>
                     </section>
@@ -306,17 +319,10 @@ and open the template in the editor.
         <script type="text/javascript" src="js/bootstrap.min.js"></script>
         <script type="text/javascript" src="js/leaflet.js"></script>
         <script type="text/javascript">
-            $('#sidebar-nav').affix({
-                offset: {
-                    top: 100
-                            , bottom: 100
-                }
-            });
+            $('#sidebar-nav').affix({offset: {top: 100, bottom: 100} });
         </script>
         <script>
-
             var map = L.map('map').setView([50.64366, 3.01471], 13);
-
             L.tileLayer('http://{s}.tile.cloudmade.com/BC9A493B41014CAABB98F0471D759707/997/256/{z}/{x}/{y}.png', {
                 maxZoom: 18,
                 attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://cloudmade.com">CloudMade</a>'
@@ -324,8 +330,6 @@ and open the template in the editor.
 
             L.marker([50.64366, 3.01471]).addTo(map)
                     .bindPopup("Club de tir<br />de Lomme").openPopup();
-
-
         </script>
 
     </body>
