@@ -165,6 +165,10 @@
     électroniques, nous nous donnons 5 ans pour que tout soit réalisé, soit plus de 150.000€ investis depuis 2002.
 
 - installations
+
+        <h2>Pas de tir</h2>
+            
+
 - école de tir
 - pôle compétition
 - comité directeur
